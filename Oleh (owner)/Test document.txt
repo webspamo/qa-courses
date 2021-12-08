@@ -1,0 +1,9 @@
+Feeling lucky? This is a cheat sheet with some tips:
+
+git clone [repository url]
+git status
+git add [folder/"file name".extension]
+git commit -m "Meaningful message"
+git push
+git pull
+
