@@ -1,2 +1,2 @@
 Some text, some color
-Color - RED
+Color - Now, it is BLUE
