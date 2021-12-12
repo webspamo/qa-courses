@@ -1,2 +1,5 @@
 Hello, 
 What's up?
+
+I changed this file! 
+Cats are my favorite animals
